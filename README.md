@@ -22,3 +22,5 @@ Example cases:
 
 * **Input:** 1231564  
 **Output:** ----++-
+
+If there are multiple solutions to a given input, this program outputs the one with more "-" symbols.
